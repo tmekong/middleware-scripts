@@ -1,7 +1,9 @@
-## Date: 2/2/22
+#! /bin/bash
 #Description: Installing the sonarqube on centos7
 #Author: Terence
-## Date: 2/2/22
+#Date: 2/2/22
+
+
 echo "installation of sonarqube packages in progress..."
 sleep 2
 su - vagrant
